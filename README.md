@@ -14,9 +14,9 @@ Most of what is named here was named from observation, before I knew whether the
 | DDL-Thought-Process-Logs | Primary source: raw thought-process logs from LLMs under DDL. CC0. Start here for the data. |
 | AI-Dialogue-Legacy | Reports analyzing individual dialogue logs, in Japanese and English. |
 
-Longer articles (The Context Engineer): https://medium.com/the-context-engineer
-Author page: https://medium.com/@onlythequestioner
-Japanese writing: https://note.com/the_questioner
+- Longer articles (The Context Engineer): https://medium.com/the-context-engineer
+- Author page: https://medium.com/@onlythequestioner
+- Japanese writing: https://note.com/the_questioner
 
 ## Terms defined here
 
