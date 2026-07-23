@@ -1,4 +1,4 @@
- YUZU — DDL Archives # YUZU — DDL Archives
+# YUZU — DDL Archives
 
 Observer. Not a researcher, not an engineer. I watch what LLMs actually do in long dialogue, and write down what I see.
 
